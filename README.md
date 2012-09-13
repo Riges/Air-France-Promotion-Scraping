@@ -1,4 +1,4 @@
-Air-France-Promotion-Scraping
+Air France promotion scraping
 =============================
 
-Air France Promotion Scraping
+Air France promotion scraping

@@ -1,0 +1,11 @@
+var config = {};
+
+config.db = {};
+config.db.host = 'localhost';
+config.db.port = 3306;
+config.db.user = 'airFranceScraping';
+config.db.password = 'toto42sh';
+config.db.dbname = 'scraping';
+config.db.prefix = 'afs_';
+
+module.exports = config;
